@@ -12,3 +12,8 @@ Fork of `randcrack`, a python module for cracking/predicting Pythons `random` mo
 ### Inspiration
 
 The inspiration for forking `randcrack` and making some modification's was solely to help with a recent CTF challenge I was facing in which the flag was the seed, along with a prefix/suffix of 13-1337 random charaters (hex). This made it much easier to brute force with hashcat and custom wordlists... I did not solve the challenge until the event had already completed :(
+
+
+
+> Functionality has not been added to master branch yet
+> Im busy currently but had enough time to make this README.md file at least...
