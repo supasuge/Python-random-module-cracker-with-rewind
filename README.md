@@ -1,6 +1,8 @@
 
 # randcrack – Python random module cracker / predictor
 
+**Incomplete project...**
+
 Fork of `randcrack`, a python module for cracking/predicting Pythons `random` module. The key difference between this and the original is the ability to "rewind" the state of the PRNG (Mersenne twister under the hood). Once you have >= $624$ 32-bit integer's produced from a seeded PRNG, you can obtain the state and predict the output of the PRNG. 
 
 ## Goal
