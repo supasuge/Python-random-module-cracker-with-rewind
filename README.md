@@ -15,5 +15,4 @@ The inspiration for forking `randcrack` and making some modification's was solel
 
 
 
-> Functionality has not been added to master branch yet
-> Im busy currently but had enough time to make this README.md file at least...
+
