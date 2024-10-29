@@ -7,7 +7,7 @@ Fork of `randcrack`, a python module for cracking/predicting Pythons `random` mo
 
 ## Goal
 - Rewind state: Find numbers produced at a previous point in time
-- Find original state/seed: This is a highly non-trivial task, as the seed you pass to python` `random.seed()` function is then hashed via SHA-512. So, to obtain the original value of the seed, you must brute force this hash.
+- Find original seed used after rewinding state 
 
 
 
