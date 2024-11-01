@@ -3,18 +3,15 @@
 
 **Incomplete project...**
 
-Fork of `randcrack`, a python module for cracking/predicting Pythons `random` module. The key difference between this and the original is the ability to "rewind" the state of the PRNG (Mersenne twister under the hood). Once you have >= $624$ 32-bit integer's produced from a seeded PRNG, you can obtain the state and predict the output of the PRNG. 
-
 ## Goal
-- Rewind state: Find numbers produced at a previous point in time
-- Find original seed used after rewinding state 
+- Optimization's using `z3` solver inspired from a CTF challenge from ISITDTUCTF Qualifiers 2024
+- Rewind/"Un-twist" the mersenne twister (Algorithm that power's python's `random` module)
 
 
 
-### Inspiration
+> Incomplete
+> > Please contact me on discord @supasuge if you want you contribute to this project. 
 
-The inspiration for forking `randcrack` and making some modification's was solely to help with a recent CTF challenge I was facing in which the flag was the seed, along with a prefix/suffix of 13-1337 random charaters (hex). 
-
-
-
-
+###### Resources
+https://stackered.com/blog/python-random-prediction/
+https://rbtree.blog/posts/2021-05-18-breaking-python-random-module/
