@@ -12,6 +12,8 @@
 
 > Incomplete
 > > Please contact me on discord @supasuge if you want you contribute to this project. 
+> > > Please note: I am still in the planning/research stage of this project.
+
 
 ###### Resources
 https://stackered.com/blog/python-random-prediction/
